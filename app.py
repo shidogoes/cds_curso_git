@@ -60,7 +60,6 @@ def create_answers_section(df):
     
     return None
 
-
 def main():
     df_raw = load_data()
 
